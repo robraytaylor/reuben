@@ -1,0 +1,6 @@
+c:\users\rob.taylor\documents\visual studio 2015\Projects\Reuben\Reuben\obj\Debug\Reuben.csprojResolveAssemblyReference.cache
+c:\users\rob.taylor\documents\visual studio 2015\Projects\Reuben\Reuben\bin\Reuben.dll.config
+c:\users\rob.taylor\documents\visual studio 2015\Projects\Reuben\Reuben\bin\Reuben.dll
+c:\users\rob.taylor\documents\visual studio 2015\Projects\Reuben\Reuben\bin\Reuben.pdb
+c:\users\rob.taylor\documents\visual studio 2015\Projects\Reuben\Reuben\obj\Debug\Reuben.dll
+c:\users\rob.taylor\documents\visual studio 2015\Projects\Reuben\Reuben\obj\Debug\Reuben.pdb
